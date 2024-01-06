@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm Tabassom Saremi, a passionate Data Analyst.
 
-<!--
-**Tabassom95/Tabassom95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- Over 3 years of experience in optimizing data streams and delivering actionable insights.
+- Proficient in data visualization and statistical analysis using Tableau, Excel, SQL, and Python.
+- Proven track record of spearheading improvements in campaign effectiveness.
 
-Here are some ideas to get you started:
+🛠️ **Skills:**
+- Data Analysis: Excel, SQL, Python
+- Data Visualization: Tableau
+- Statistical Analysis: SAS Programming Language
+- Marketing Data Analytics
+- Database Management
+- Machine Learning and Forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Projects:**
+- [Peekage Marketing Data Analysis](link-to-project)
+- [Tapsi Ridesharing Data Analytics](link-to-project)
+- [Business Travelers Time Management (Master's Project)](link-to-project)
+- [Data-Driven Optimization in Project Risk Assessment (Bachelor's Project)](link-to-project)
+
+📚 **Education:**
+- Master of Engineering, Industrial Engineering, Concordia University
+- Bachelor of Engineering, Industrial Engineering, Khayyam University
+
+📧 **Contact:**
+- Email: Tabassom.saremi@gmail.com
+
+Let's connect and explore the world of data together! 🌐
